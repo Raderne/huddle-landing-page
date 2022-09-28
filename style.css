@@ -367,6 +367,10 @@ nav{
     .card-title{
         font-size: 1.7rem;
     }
+    
+    .card-swap{
+        flex-direction: row;
+    }
 
     /* ======= footer ====== */
     .sticker{
