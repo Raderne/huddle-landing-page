@@ -4,3 +4,15 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ## Screenshot
 ![](huddle.png)
+
+## Links
+- Solution URL: (https://github.com/Raderne/huddle-landing-page)
+- Live Site URL: (https://raderne.github.io/huddle-landing-page/)
+
+## Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
